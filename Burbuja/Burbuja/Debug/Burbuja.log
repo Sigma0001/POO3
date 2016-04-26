@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\rocagu_7\documents\sae\programas\programas\burbuja\src\main.cpp(98): warning C4101: 'j': unreferenced local variable
+c:\users\rocagu_7\documents\sae\programas\programas\burbuja\src\main.cpp(98): warning C4101: 'temp': unreferenced local variable
+c:\users\rocagu_7\documents\sae\programas\programas\burbuja\src\main.cpp(171): warning C4101: 'j': unreferenced local variable
+c:\users\rocagu_7\documents\sae\programas\programas\burbuja\src\main.cpp(171): warning C4101: 'temp': unreferenced local variable
+  Burbuja.vcxproj -> C:\Users\rocagu_7\Documents\Sae\Programas\programas\Burbuja\Debug\Burbuja.exe
